@@ -1,0 +1,59 @@
+.icon{
+    width: 90px;
+    height: 40px;
+    margin-top: 75px;
+   margin-left: 200px;
+}
+.txt{
+    font-size:xx-large;
+    font-weight: bold;
+}
+.card1{
+    display: flex;
+   
+}
+.ion-card{
+    display: flex;
+    /* position: relative; */
+    margin-top: 50px;
+    width: 100px;
+    height: 110px;
+    text-align: center;
+}
+.text1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    margin-left: 15px;
+}
+.piz{
+    width: 80px;
+    display: flex;
+    margin-left: 20px;
+}
+.text2{
+  display: flex;
+
+  height: 120px;
+}
+.pizlo{
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+   
+}
+.sfo{
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+   
+    
+  
+ 
+}
+.sft{
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+}
